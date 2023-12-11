@@ -2,7 +2,7 @@
 #### I am a web designer
 ![I am a web designer](https://scontent.frjh4-1.fna.fbcdn.net/v/t39.30808-6/409406980_313896358186293_1436656256548170951_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeG3UR3Ahm6HDerYF0tnhOkmlCTyRKPIV8GUJPJEo8hXwWk8XWkJZaSCCQOBlpkoIMkDBSxVz6pFxUgsRlKeOFZ4&_nc_ohc=_nSg6w3z0_YAX_wZp4c&_nc_ht=scontent.frjh4-1.fna&oh=00_AfAya0KSSKfggd6WTAj85DS0jrg6bhhJlKVd4LByVsWBRA&oe=657CC1AB)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Welcome to my github Profile.
 
 Skills: HTML/CSS/JS
 
