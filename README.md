@@ -21,9 +21,10 @@ Skills: HTML/CSS/JS
 
 
 
-```
-Link
-
+``` html
+https://www.facebook.com/marufahmed8090
+https://www.instagram.com/mdmaruf8029
+https://www.linkedin.com/in/marufahmed8029
 ```
 
 
