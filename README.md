@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm MD. MARUF AHMED
 #### I am a web designer
-![I am a web designer](https://scontent.frjh4-1.fna.fbcdn.net/v/t39.30808-6/409406980_313896358186293_1436656256548170951_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeG3UR3Ahm6HDerYF0tnhOkmlCTyRKPIV8GUJPJEo8hXwWk8XWkJZaSCCQOBlpkoIMkDBSxVz6pFxUgsRlKeOFZ4&_nc_ohc=_nSg6w3z0_YAX_wZp4c&_nc_ht=scontent.frjh4-1.fna&oh=00_AfAya0KSSKfggd6WTAj85DS0jrg6bhhJlKVd4LByVsWBRA&oe=657CC1AB)
+![I am a web designer](https://scontent.frjh4-1.fna.fbcdn.net/v/t39.30808-6/409406980_313896358186293_1436656256548170951_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeG3UR3Ahm6HDerYF0tnhOkmlCTyRKPIV8GUJPJEo8hXwWk8XWkJZaSCCQOBlpkoIMkDBSxVz6pFxUgsRlKeOFZ4&_nc_ohc=kKzlPrWm0T4AX8QFyVi&_nc_ht=scontent.frjh4-1.fna&oh=00_AfAweXpqQ1V77YSLODqtDXpe_SurHGZAv95C7S7UQEwr7Q&oe=65E9856B)
 
-Welcome to my github Profile.
+Welcome to my GitHub Profile.
 
 Skills: HTML/CSS/JS
 
