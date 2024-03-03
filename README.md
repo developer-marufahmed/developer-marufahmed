@@ -4,12 +4,12 @@
 
 Welcome to my GitHub Profile.
 
-Skills: HTML/CSS/JS
+Skills: HTML/CSS/JS/WordPress
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javascript. 
-- 👯 I’m looking to collaborate on Github. 
-- 💬 Ask me about Web Desinger. 
+- 👯 I’m looking to collaborate on GitHub. 
+- 💬 Ask me about Web Designer. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/developer-marufahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marufahmed8029/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/marufahmed8090)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mdmaruf8029/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/01610318315)  
