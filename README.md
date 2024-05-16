@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm MD. MARUF AHMED
 #### I am a web designer
-![I am a web designer](<a href="https://github.com/developer-marufahmed"><img src="https://scontent.frjh4-1.fna.fbcdn.net/v/t39.30808-6/409406980_313896358186293_1436656256548170951_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG3UR3Ahm6HDerYF0tnhOkmlCTyRKPIV8GUJPJEo8hXwWk8XWkJZaSCCQOBlpkoIMkDBSxVz6pFxUgsRlKeOFZ4&_nc_ohc=IUKanyAxaiIQ7kNvgFjLXhw&_nc_ht=scontent.frjh4-1.fna&oh=00_AYBVq2JLL0c4wQtPxRfbNaTP0oFocwPkmecNg9dQucxgrQ&oe=664B4CAB" /></a>)
+### I am a web designer
+(<a href="https://github.com/developer-marufahmed"><img src="https://scontent.frjh4-1.fna.fbcdn.net/v/t39.30808-6/409406980_313896358186293_1436656256548170951_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG3UR3Ahm6HDerYF0tnhOkmlCTyRKPIV8GUJPJEo8hXwWk8XWkJZaSCCQOBlpkoIMkDBSxVz6pFxUgsRlKeOFZ4&_nc_ohc=IUKanyAxaiIQ7kNvgFjLXhw&_nc_ht=scontent.frjh4-1.fna&oh=00_AYBVq2JLL0c4wQtPxRfbNaTP0oFocwPkmecNg9dQucxgrQ&oe=664B4CAB" /></a>)
 
 Welcome to my GitHub Profile.
 
