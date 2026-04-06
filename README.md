@@ -40,23 +40,60 @@ We serve both **Bangladesh and international markets**, delivering high-performa
 ### 💻 Frontend
 - Next.js (App Router)
 - React.js
+- JavaScript (ES6+)
+- TypeScript
 - Tailwind CSS
 - ShadCN UI
+- HTML5 & CSS3
 
 ### ⚙️ Backend
 - Node.js
 - Express.js
+- Next.js API Routes
 - Prisma ORM
+- REST API Development
 
 ### 🗄️ Database
 - MongoDB
 - PostgreSQL
+- MySQL
+- Redis (Caching & Session Management)
 
-### 🔗 Tools & Technologies
-- REST APIs
-- Socket.io (Real-time systems)
+### 🔐 Authentication & Security
 - JWT Authentication
-- Stripe / SSLCommerz / bKash Integration
+- OAuth (Google, Facebook Login)
+- Role-Based Access Control (RBAC)
+- Secure Cookies & Session Handling
+- API Rate Limiting & Validation
+
+### 💳 Payment Integration
+- Stripe
+- SSLCommerz
+- bKash
+- Nagad
+
+### 📡 Real-time & Communication
+- Socket.io
+- WebSockets
+- Event-driven Architecture
+
+### ☁️ DevOps & Deployment
+- Vercel
+- Netlify
+- Docker (Basic)
+- CI/CD (GitHub Actions)
+- Nginx (Basic Server Setup)
+
+### 🧪 Testing & Tools
+- Postman
+- Thunder Client
+- Git & GitHub
+- ESLint & Prettier
+
+### 🎨 UI/UX & Design
+- Figma (Design to Code)
+- Responsive Design
+- Accessibility Basics
 
 ---
 
