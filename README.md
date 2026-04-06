@@ -1,31 +1,89 @@
-### Hi there 👋, I'm MD. MARUF AHMED
-#### I am a web designer
-### I am a web designer
-<a href="https://github.com/developer-marufahmed"><img src="https://scontent.frjh4-1.fna.fbcdn.net/v/t39.30808-6/409406980_313896358186293_1436656256548170951_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG3UR3Ahm6HDerYF0tnhOkmlCTyRKPIV8GUJPJEo8hXwWk8XWkJZaSCCQOBlpkoIMkDBSxVz6pFxUgsRlKeOFZ4&_nc_ohc=IUKanyAxaiIQ7kNvgFjLXhw&_nc_ht=scontent.frjh4-1.fna&oh=00_AYBVq2JLL0c4wQtPxRfbNaTP0oFocwPkmecNg9dQucxgrQ&oe=664B4CAB" /></a>
+🚀 MD. MARUF AHMED
+Full Stack Developer | SaaS Builder | Founder of MCodeX
+👋 About Me
 
-Welcome to my GitHub Profile.
+I am a passionate Full Stack Web Developer focused on building scalable web applications, SaaS platforms, and real-world business solutions.
 
-Skills: HTML/CSS/JS/WordPress
+I don’t just develop for clients — I build complete product ecosystems, handling everything from idea validation to deployment and scaling.
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Javascript. 
-- 👯 I’m looking to collaborate on GitHub. 
-- 💬 Ask me about Web Designer. 
+🧠 What I Do
+🔥 Full Stack Web Development (MERN + Next.js)
+⚡ SaaS Application Development
+🛒 Advanced E-commerce Systems (Custom, Multi-vendor, Affiliate)
+🧩 Admin Panel & Dashboard Architecture
+🔐 Authentication & Security Implementation
+💳 Payment Gateway Integration (Local & Global)
+📡 REST API Design & Scalable Backend Systems
+🏢 Company
+🚀 MCodeX
 
+MCodeX is a product-driven software company focused on:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/developer-marufahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marufahmed8029/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/marufahmed8090)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mdmaruf8029/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/01610318315)  
+Custom Software Development
+SaaS Product Development
+Business Automation Solutions
 
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+We serve both Bangladesh and international markets, delivering high-performance and scalable systems.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+🛠️ Tech Stack
+💻 Frontend
+Next.js (App Router)
+React.js
+Tailwind CSS
+ShadCN UI
+⚙️ Backend
+Node.js
+Express.js
+Prisma ORM
+🗄️ Database
+MongoDB
+PostgreSQL
+🔗 Tools & Technologies
+REST APIs
+Socket.io (Real-time systems)
+JWT Authentication
+Stripe / SSLCommerz / bKash Integration
+🧩 Key Projects
+🛒 Advanced E-commerce Platform
+Multi-vendor architecture
+Affiliate system
+Full-featured admin dashboard
+SaaS-ready scalable structure
+🤝 Donation Platform
+Fundraising system for medical/emergency support
+Integrated Bangladeshi payment gateways
+💬 AI Chat Application
+ChatGPT-like modern interface
+Real-time streaming responses
+Markdown support
+📈 Vision
 
+My goal is to build scalable SaaS products that can compete globally and establish MCodeX as a strong, trusted tech brand.
 
+🤝 Let's Collaborate
 
-``` html
-https://www.facebook.com/marufahmed8090
-https://www.instagram.com/mdmaruf8029
-https://www.linkedin.com/in/marufahmed8029
-```
+I’m open to:
 
+💼 Freelance Projects
+🚀 SaaS Product Collaboration
+🧠 Startup Ideas & Partnerships
 
+📩 Contact Me:
+
+LinkedIn: https://linkedin.com/in/your-profile
+Email: your@email.com
+⭐ Support
+
+If you like my work, consider giving a ⭐ on GitHub — it really helps!
+
+🔥 Fun Fact
+
+I don’t just write code — I think in terms of products, scalability, and business impact.
+
+📊 GitHub Stats (Optional)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+🧲 Optional Badges
+![Profile Views](https://komarev.com/ghpvc/?username=your-username)
+![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
