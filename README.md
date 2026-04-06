@@ -130,8 +130,8 @@ I’m open to:
 - 🧠 Startup Ideas & Partnerships  
 
 📩 Contact Me:
-- LinkedIn: https://linkedin.com/in/your-profile  
-- Email: your@email.com  
+- LinkedIn: https://linkedin.com/in/marufahmed8090
+- Email: marufahmed5209@email.com  
 
 ---
 
@@ -147,7 +147,7 @@ I don’t just write code — I think in terms of **products, scalability, and b
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=developer-marufahmed&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=developer-marufahmed&theme=radical&hide=commits&hide=repos&hide_rank=true&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-marufahmed&layout=compact&theme=radical)
 
